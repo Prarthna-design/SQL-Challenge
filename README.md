@@ -1,2 +1,4 @@
 # SQL-Challenge
-For this project we created ERD using www.lucidchart.com 
+For this project  ERD was created using www.lucidchart.com 
+
+
